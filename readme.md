@@ -12,7 +12,7 @@
 
 ## 体验前准备
 
-该应用案例，需要您开通[阿里云函数计算](https://fcnext.console.aliyun.com/) 产品；并建议您当前的账号有一下权限存在`FCDefaultRole`。
+该应用案例，需要您开通[阿里云函数计算](https://fcnext.console.aliyun.com/) 产品；并建议您当前s的账号有一下权限存在`FCDefaultRole`。
 
 ## 代码与预览
 
