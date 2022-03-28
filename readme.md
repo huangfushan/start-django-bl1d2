@@ -1,6 +1,6 @@
 # Django 框架s
 
-> 快速部署和体验Serverless架构下的Djsango项目
+> 快速部署和体验Serverless架构下的Djsango项目s
 
 - [体验前准备](#体验前准备)ss
 - [代码与预览](#代码与预览)s
