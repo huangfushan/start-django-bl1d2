@@ -47,7 +47,7 @@ s
     - 在项目中`s.container.yaml`中，修改44行的`image`参数为自己的容器镜像服务对应的镜像仓库地址；
     - 在项目中执行`s build --use-docker -t s.container.yaml`进行项目的构建；
     - 构建完成之后执行`s deploy -y`进行项目的部署;
-
+s
 ## 应用详情
 
 本项目是将 Python Web 框架中，非常受欢迎的 Django 框架，部署ss到阿里云 Serverless 平台（函数计算 FC）。
